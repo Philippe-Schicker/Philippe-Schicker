@@ -2,7 +2,7 @@
 <br/>
 - M.S. Management & Data Analytics (Carnegie Mellon University)
 - B.S. Mechanical Engineering (Mississippi State University)
-- Focus: Power Market Analysis, Renewable Energy Systems, Engineering & Public Policy, Climate Science
+- Focus: Power Market Analysis, Energy Forecasting, Renewable Energy Systems, Engineering & Public Policy, Climate Science
 
 <br/>
 
