@@ -10,7 +10,7 @@
 <br/>
 - I work on modelling power markets, renewable energy systems (CCHP), energy grid interactions, and energy policy with rural applications.
 - I use machine learning, statistical analysis, and data analytics tools to address sustainable energy needs.
-- I am learning about ways to implement & combine engineering solutions & policy while maintaining my commitment to environmental justice. 
+- I am learning about ways to implement and combine engineering solutions & policy while maintaining my commitment to environmental justice. 
 
 
 If you share any of these interests or want to talk Climate Science, connect with me on [LinkedIn](https://www.linkedin.com/in/philippe-schicker/) :)
