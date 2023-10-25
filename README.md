@@ -8,7 +8,7 @@
 
 **My Work:** 🌱
 <br/>
-- I work on modelling power markets, renewable energy systems (CHP), energy grid interactions, and energy policy with rural applications.
+- I work on modelling power markets, renewable energy systems (CCHP), energy grid interactions, and energy policy with rural applications.
 - I use machine learning, statistical analysis, and data analytics tools to address sustainable energy needs.
 - I am learning about ways to implement & combine engineering solutions & policy while maintaining my commitment to environmental justice. 
 
